@@ -1,0 +1,3 @@
+Nome: Ricardo
+Idade: 30
+Altura: 1,740000

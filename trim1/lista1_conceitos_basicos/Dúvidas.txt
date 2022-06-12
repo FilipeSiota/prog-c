@@ -1,0 +1,23 @@
+1. %02.2f ou d, como funciona? check
+
+2. main (void) precisa colocar? check
+nn tem necessidade
+
+3. a descrição precisa ser antes da inclusão de bibliotecas? check
+é sugerido como padrão
+
+4. setlocale sempre no inicio da função main? check
+como padrão sim
+
+5. constante declarada fora da função main()? check
+sim, no inicio do programa
+
+6. tamanho do vetor da string, como saber?
+aparentemente, é o número de caracteres + 1,
+para guardar o nome da variável
+
+7. setlocale interfere no tamanho da string? check
+aparentemente nao
+
+8. biblioteca <math.h> declarar double ou float? check
+tanto faz, o q muda é o espaço de memória
